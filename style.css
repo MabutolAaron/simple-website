@@ -1,0 +1,56 @@
+   body {
+      text-align: center;
+      background-color: lightgoldenrodyellow;
+    }
+    h1 {
+      font-family: "Arial";
+      color: darkgreen ;
+      border-bottom: 1px solid #000; 
+      padding-bottom: 5px;
+      border-top: 1px solid #000; 
+      padding-top: 5px;
+      background-color: darkgreen;
+      color: lightgoldenrodyellow;
+    }
+    a:hover {
+      background-color: yellow;
+    }
+    p {
+      font-family: Arial;
+      font-weight: bold;
+    }
+    video {
+      display: block; 
+      margin: 0 auto;
+      width: 30%;
+    }
+    img {
+      max-width: 20%; 
+      height: auto; 
+      border-radius: 50%;
+    }
+    ul, ol {
+     list-style-type: none;
+    }
+     ul {
+     list-style-type: none; 
+     padding: 0;
+     width: 50%; 
+     margin: auto; 
+    }
+    h2 {
+      border-bottom: 1px solid #000; 
+      padding-bottom: 5px;
+      border-top: 1px solid #000; 
+      padding-top: 5px;
+      background-color: darkgreen;
+      color: lightgoldenrodyellow;
+    }
+    hr {
+      border-bottom: 1px solid #000; 
+      padding-bottom: 5px;
+      border-top: 1px solid #000; 
+      padding-top: 5px;
+      background-color: darkgreen;
+      color: lightgoldenrodyellow;
+    }
